@@ -20,7 +20,7 @@ Horiseon is focused on advancing your business with Search Engine Optimization, 
 Horiseons website is easily naviagted through the (header)(nav) bar. When clicking a one of three options in the (nav) bar you will be scrolled to the respective section on the page for further information.
 
     
-    ![Horiseon Website](./assets/images/horiseon-website.png)
+![Horiseon Website](./assets/images/horiseon-website.png)
     
 
 ---
