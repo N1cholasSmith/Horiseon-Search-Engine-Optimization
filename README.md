@@ -5,7 +5,7 @@
 
 ---
 ## Description
-Horiseon is focused on advancing your business with Search Engine Optimization, Business Reputation & Social Media Statistics and Analytics to thrive online, increase visibility & find the right customers for your business. Horiseon is the first huge milestone to gain insight into the statistics and analytics that will minimise the guess work, while enabling you to further enhance your business and customers experience.
+Horiseon is focused on advancing your business with Search Engine Optimization, Business Reputation & Social Media Statistics and Analytics to thrive online, increase visibility & find the right customers for your business. Horiseon is the first huge milestone to gain insight into the statistics and analytics that will minimise the guess work, while enabling you to further enhance your business and customers experience. Although it will strengthen your business from a technical standpoint, it severley lacked ARIA attributes therefore limiting the audience that can be exposed to this website. Various methods include optimizing the HTML Structure with semantics and simplifying HTML and CSS code to assist future development. Images were given alt attributes to add context if web browsers were unable to display or the customer was vision impared.
 
 ---
 ## Table of Contents
